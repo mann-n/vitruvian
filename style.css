@@ -1581,6 +1581,9 @@ hr {
         height: 400px;
         margin-top: 10px;
     }
+    .video {
+        width: 500px;
+    }
 }
 
 @media(max-width: 678px) {
@@ -1626,8 +1629,8 @@ hr {
     .opportunities_item-text {
         font-size: 12px;
     }
-    .video {
-        width: 500px;
+   .video {
+        width: 450px;
     }
 }
 
@@ -1668,14 +1671,11 @@ hr {
     .answer_item-question {
         font-size: 14px;
     }
-    .video {
-        width: 500px;
-    }
 }
 
 @media(max-width:567px) {
     .video {
-        width: 500px;
+        width: 400px;
     }
     .crypto_items {
         display: block;
