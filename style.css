@@ -1567,9 +1567,6 @@ hr {
     .robot_intro {
         padding: 20px;
     }
-    .video {
-        width: 650px;
-    }
     .marketing_inner {
         flex-wrap: wrap;
         justify-content: center;
@@ -1630,7 +1627,7 @@ hr {
         font-size: 12px;
     }
    .video {
-        width: 450px;
+        width: 400px;
     }
 }
 
